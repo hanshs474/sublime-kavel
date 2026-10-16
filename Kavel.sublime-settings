@@ -1,0 +1,11 @@
+{
+  // API key from https://www.kavel.ai/settings/apikeys . Leave empty to run on
+  // Kavel's free allowance (text to image).
+  "api_key": "",
+  // Image model to use when an API key is set. Empty = the free model.
+  "model": "",
+  // "1:1", "16:9", "9:16", "4:3", ...
+  "aspect_ratio": "1:1",
+  // false = only copy the URL to the clipboard
+  "insert_link": true
+}

@@ -1,0 +1,8 @@
+[
+  { "caption": "Kavel: Generate Image", "command": "kavel_generate_image" },
+  {
+    "caption": "Preferences: Kavel Settings",
+    "command": "edit_settings",
+    "args": { "base_file": "${packages}/Kavel/Kavel.sublime-settings", "default": "{\n\t$0\n}\n" }
+  }
+]
